@@ -1,0 +1,12 @@
+body,html {
+margin:auto;
+border:solid 10px brown;
+background-color:bisque
+}
+
+#destaque{
+
+    background-image: url(fundo-do-quadro-negro-com-pizza_23-2148907816.avif);
+    text-align:center;
+    color:blanchedalmond
+}
